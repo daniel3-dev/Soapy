@@ -48,7 +48,7 @@ h1 {
 }
 
 .section-one .top {
-  background-image: url(img/hero-bg.png);
+  background-image: url(img/hero-bg.webp);
   background-size: cover;
   height: 50vh;
 }
@@ -183,4 +183,20 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
   margin-left: 5vw;
+}
+
+/*########################## Footer ###########################*/
+
+footer {
+  padding-left: 7.5%;
+  padding-right: 7.5%;
+  padding-bottom: 10vh;
+  padding-top: 10vh;
+}
+
+.touch {
+  color: #f95b5b;
+  border-bottom: 2px solid #f95b5b;
+  display: inline-block;
+  line-height: 45px;
 }
